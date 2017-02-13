@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jasonkwong11/node_passport_example/issues"
   },
-  "homepage": "https://github.com/jasonkwong11/node_passport_example#readme"
+  "homepage": "https://github.com/jasonkwong11/node_passport_example#readme",
+  "dependencies": {
+    "connect-redis": "^3.2.0",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "passport": "^0.3.2"
+  }
 }
